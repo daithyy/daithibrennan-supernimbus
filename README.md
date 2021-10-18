@@ -59,5 +59,10 @@ Password: test12345
 - **Space** - Jump
 - **Y** - Chat
 
+## 📁 Source Code
+This repo uses git submodules.
+
+You can clone the project down with `git clone --recurse-submodules https://github.com/daithyy/daithibrennan-supernimbus.git`, to bring all submodules down at once recursively.
+
 ## 📥 Release Mirror
 - [Download](https://www.mediafire.com/file/p93chs7kfn3b0yy/DAITHIBRENNAN_HIREPROJECT.zip/file)
