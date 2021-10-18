@@ -1,0 +1,12 @@
+[submodule "SuperNimbus-Client"]
+	path = SuperNimbus-Client
+	url = https://github.com/daithyy/SuperNimbus-Client.git
+[submodule "SuperNimbus-UnityServer"]
+	path = SuperNimbus-UnityServer
+	url = https://github.com/daithyy/SuperNimbus-UnityServer
+[submodule "SuperNimbus-Nakama"]
+	path = SuperNimbus-Nakama
+	url = https://github.com/daithyy/SuperNimbus-Nakama
+[submodule "SuperNimbus-ConsoleServer"]
+	path = SuperNimbus-ConsoleServer
+	url = https://github.com/daithyy/SuperNimbus-ConsoleServer.git
