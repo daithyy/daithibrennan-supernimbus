@@ -13,7 +13,7 @@ It demonstrates the following features:
 - Server Authoritative Movement
 - Server Authoritative Collisions
 - User Chat
-- Player Collectables
+- Scoring Mehanics with Collectables
 
 ## 🛠️ Getting started
 # Testing the Game with a Live Server
